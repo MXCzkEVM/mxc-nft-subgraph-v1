@@ -1,0 +1,14 @@
+{
+  "mumbai": {
+    "MarketplaceV1": {
+      "address": "0x973Ca9F6F55d911f966E3136E446035F785db262",
+      "startBlock": 1089820
+    },
+    "MXCCollectionFactoryV1": {
+      "address": "0x7227F8aB750B758961661b731f3a54dB7D8b0B1B"
+    },
+    "MXCNFTTokenV1": {
+      "address": "0x1ebEC619e3feD10aA991B3CdD66FC0570f883203"
+    }
+  }
+}
